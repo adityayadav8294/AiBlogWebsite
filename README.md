@@ -113,8 +113,9 @@ FutureTech-UI/
 
 👨‍💻 Author
 
-• Designed by FutureTech UI Team
-• For inquiries or collaboration: [Your Email or Portfolio Link]
+Designed & Documented by [Aditya Yadav] 
+📩 Contact: [adityasingh829442@gmail.com]
+🌐 Portfolio: [https://aditya82.netlify.app/]
 
 ---------------------------------------------------------------------------------------------------------
 
