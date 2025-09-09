@@ -4,6 +4,10 @@ The FutureTech UI Templates is a modern dark-themed Figma design system featurin
 
 ---------------------------------------------------------------------------------------------------------
 
+# Screenshot : 
+![Image](https://github.com/user-attachments/assets/c65d0058-5c0a-4117-aa9f-840de640b2ff)
+
+
 📂 Project Overview :-
 
 --> The FutureTech UI Kit includes multiple pages tailored for a tech-driven digital platform. Each page is designed with consistency, usability, and accessibility in mind, using a dark UI aesthetic with yellow highlights.
